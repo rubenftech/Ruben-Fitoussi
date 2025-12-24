@@ -1,0 +1,7 @@
+{
+  "name": "Ruben Fitoussi - Portfolio",
+  "description": "Professional portfolio for Ruben Fitoussi, AI & Data Engineer, featuring projects, experience, and an interactive AI assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
